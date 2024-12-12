@@ -17,3 +17,8 @@ To set up the project, clone the repository and install the required dependencie
 git clone https://github.com/skumbham/PPE-Detection-Using-Yolo11
 cd PPE-Detection-Using-Yolo11
 pip install -r requirements.txt
+
+  
+
+## Video Inference  
+Include the link for the Video Inference accordingly: [Video Inference](https://drive.google.com/file/d/1JSa4mF9R3v4kLJYbzGCsg9ax45cRfCXj/view?usp=drive_link)  
