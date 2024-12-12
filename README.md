@@ -19,6 +19,5 @@ cd PPE-Detection-Using-Yolo11
 pip install -r requirements.txt
 ```
   
-
 ## Video Inference  
-Include the link for the Video Inference accordingly: [Video Inference](https://drive.google.com/file/d/1JSa4mF9R3v4kLJYbzGCsg9ax45cRfCXj/view?usp=drive_link)  
+You can access the video inference file using the following link: [Video Inference](https://drive.google.com/file/d/1JSa4mF9R3v4kLJYbzGCsg9ax45cRfCXj/view?usp=drive_link)  
